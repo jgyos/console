@@ -1,0 +1,23 @@
+{
+  "name": "Console app",
+  "type": "certified",
+  "role": "system",
+  "description": "Console app",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "The Gaia Team",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "permissions": {
+  },
+  "locales": {
+    "en-US": {
+      "name": "Console app",
+      "description": "Console app"
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/Blank.png"
+  }
+}
